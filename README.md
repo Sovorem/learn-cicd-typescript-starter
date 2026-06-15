@@ -1,10 +1,10 @@
 # learn-cicd-typescript-starter (Hushik)
 
-Էս repo-ն պարունակում ա «Hushik» app-ի TypeScript starter code-ը՝ [Sovorem.am](https://sovorem.am)-ի «Learn CICD» course-ի համար։
+Էս repo-ն պարունակում է «Hushik» app-ի TypeScript starter code-ը՝ [Sovorem.am](https://sovorem.am)-ի «Learn CICD» course-ի համար։
 
 ## Local Development
 
-Համոզվի, որ Node-ի version-ը 22+ ա։
+Համոզվի, որ Node-ի version-ը 22+ է։
 
 Պրոյեկտի root-ում ստեղծիր `.env` ֆայլ՝ սենց պարունակությամբ․
 
@@ -19,6 +19,6 @@ npm install
 npm run dev
 ```
 
-_Սենց server-ը run ա անում առանց database-ի (non-database mode)։_ Կբացի մի պարզ webpage `http://localhost:8080` հասցեում։
+_Սենց server-ը run է անում առանց database-ի (non-database mode)։_ Կբացի մի պարզ webpage `http://localhost:8080` հասցեում։
 
 Դեռ պետք չի database setup անել կամ webpage-ի վրա ինտերակտիվություն ավելացնել։ Դրա հրահանգները կգան course-ի մեջ ավելի ուշ։
